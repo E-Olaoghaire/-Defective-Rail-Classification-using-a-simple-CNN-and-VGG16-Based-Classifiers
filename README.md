@@ -9,3 +9,5 @@ times that were half the length. Convolutional Neural Networks with high perform
 could be used to create automatic defective rail detection systems that reduce or remove 
 the need for manual identification of railway defects, which are a leading cause of railway 
 accidents and deaths on railways worldwide.
+
+Link to dataset used: https://www.kaggle.com/datasets/salmaneunus/railway-track-fault-detection
